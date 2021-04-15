@@ -12,7 +12,7 @@
 <!-- Responsive viewport -->
 <meta content='width=device-width,initial-scale=1' name='viewport'/>
 
-<!-- App name -->
+<!-- App naame -->
 <meta expr:content='data:blog.title' name='application-name'/>
 <meta expr:content='data:blog.title' property='og:site_name'/>
 
